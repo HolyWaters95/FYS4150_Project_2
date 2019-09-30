@@ -1,0 +1,5 @@
+Ideal values for N and Xmax:
+Lambda 1: Rho_max = 4 | N = 300
+Lambda 2: Rho_max = 5 | N = 400
+Lambda 3: Rho_max = 5 | N = 400
+Lambda 4: Rho_max = 5 | N = 200
